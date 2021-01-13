@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  role_name: awx_test
+  author: Pascal Lüscher
+  description: pings host
+  company:
+  license: MIT
+  platforms:
+
+  - name: Ubuntu
+    versions:
+    - all
+
+  galaxy_tags: [ubuntu, ping]
+
+  min_ansible_version: 2.9
+dependencies: []
